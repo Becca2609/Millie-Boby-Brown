@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background-color: #B29CC0;
+    color: pink;
+}
+h1 {
+    color: #974772;
+    font-size: 100px;
+    text-align: center;
+    background-color: #C492A3;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+h2 {
+    color: #81877F;
+    font-style: italic;
+    background-color: #9EB4A4;
+}
+.imagen {
+    width: 150px;
+    height: 200px;
+}
+table {
+    width: px;
+    background-color: #D29CD0;
+}
+img1 {
+    width: 100px;
+    height: 100px;
+    background-color: #A876BF;
+    min-width: 100px;
+}
+td {
+    color: #D1AED9;
+    text-shadow: 0px 0px #855B90;
+    font-weight: 900;
+    font-style: italic;
+    font-size: xx-large;
+    background-color: #A686B1;
+}
+table {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+a:visited{
+	color:#BF82A4
